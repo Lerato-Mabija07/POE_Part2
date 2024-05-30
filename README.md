@@ -10,3 +10,6 @@ This application enables users to enter the details of the recipe, display the r
 Getting Started:
 
 Open the zipped folder and open the file (PROG_POE_Part2.sln) which will take you to Visual Studio. Click on start without bugging (ctrl + F5) to compile the application. Follow the on-screen instructions.
+
+![image](https://github.com/Lerato-Mabija07/POE_Part2/assets/130465883/956d0a6f-fc77-4d83-9bbd-91a4281a9592)
+
